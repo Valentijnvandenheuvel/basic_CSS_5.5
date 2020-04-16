@@ -1,0 +1,24 @@
+.my-class {
+    font-family: century gothic;
+    color: white;
+    border: none;
+    padding: 0.5em;
+    background-image: url("../images/DENF-latteart_1mb - Copy.jpg");
+    text-align: center;
+    width: 1550px;
+    height: 350px;
+}
+p {
+    font-family: century gothic;
+    text-align: left;
+    color: darkslategray;
+}
+
+h2 {
+    font-family: century gothic;
+    text-align: left;
+    padding: 0.5em;
+    color: darkslategray;
+}
+h1 {
+}
