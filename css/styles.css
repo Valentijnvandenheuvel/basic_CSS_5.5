@@ -3,7 +3,7 @@
     color: white;
     border: none;
     padding: 0.5em;
-    background-image: url("../images/DENF-latteart_1mb - Copy.jpg");
+    background-image: url("file:///C:/Users/valen/Documents/IMEM/YEAR%202/2%20Semester/PRJ4%20-%20Brand%20Development/web%20development/my-project_dreamwaver/images/")- Copy.jpg");
     text-align: center;
     width: 1550px;
     height: 350px;
@@ -19,6 +19,4 @@ h2 {
     text-align: left;
     padding: 0.5em;
     color: darkslategray;
-}
-h1 {
 }
